@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on GitHub Actions automation and tooling 
+- 🌱 I’m currently learning more kubernetes and golang
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about DevOps or automation
+<!-- - 📫 How to reach me: ... -->
+- 😄 Pronouns: he/him/his
+<!-- - ⚡ Fun fact: ... -->
+
 <!--
 **MotleyEngineer/MotleyEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
