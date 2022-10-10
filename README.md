@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Who am I? I'm currently a DevOps tech lead for a developer-focused innovation centre within my company. By nature I'm an engineer (and individual) with diverse interests, thus MotleyEngineer.
+
+By day, I currently work on building out cloud-based managed services, automation, and tooling. 
+
+In the past, I've been an Android developer, fullstack developer, and cloud platform engineer.
+
+I enjoy working on end to end projects, from initial ideation to deployment into production and maintenance.
+
+
+
+
+
 - 🔭 I’m currently working on GitHub Actions automation and tooling 
 - 🌱 I’m currently learning more kubernetes and golang
 <!-- - 👯 I’m looking to collaborate on ... -->
